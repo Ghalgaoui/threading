@@ -1,2 +1,1 @@
-# threading
-Multithreading Linux
+Some Samples Multi-Threading Linux
